@@ -1,2 +1,4 @@
 # Week-1
 In the Week 1 we discuss about installing pandas, numpy and seaborn first at the beginning of the installing libraries in microsoft vs code. We import pandas as pd, numpy as np and seaborn as sns respectively. Finally we create a Distribution of Power Generated graph from a complex dataset using different libraries function.
+# Week-2 
+In week 2 we first need to run all the previous commands before execution of the new new commands. First loading of dataset is done followed by checking the total number of rows and columns. df.describe() defines summarise the dataset. df.info() provides the information of the dataset. df.isnull() scans for missing values. In thr emd we did a plot distribution of power followed by creating histograms and analyzing the size and no. of histograms in rows. We do a scattered plot like the histogram model. A heatmap and an outliner model is done using respective ipynb functions using jupiter lab.
